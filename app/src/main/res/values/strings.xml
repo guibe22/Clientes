@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clienteswithapi</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Telefono">Telefono:</string>
+    <string name="Celular">Celular:</string>
+    <string name="Email">Email:</string>
+    <string name="FechaNacimiento">Nacimiento:</string>
+    <string name="Ocupacion">Ocupacion:</string>
+
+</resources>
